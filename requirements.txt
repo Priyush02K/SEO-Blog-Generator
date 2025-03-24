@@ -1,0 +1,10 @@
+openai>=0.28.0
+python-dotenv>=1.0.0
+beautifulsoup4>=4.12.2
+requests>=2.31.0
+google-trends-api>=1.2.3
+langchain>=0.0.346
+lxml>=4.9.3
+language-tool-python>=2.7.0
+markdown>=3.4.4
+python-slugify>=8.0.1

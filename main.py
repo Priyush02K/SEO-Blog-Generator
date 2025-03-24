@@ -5,6 +5,8 @@ from agents.planning_agent import ContentPlanningAgent
 from agents.generation_agent import ContentGenerationAgent
 from agents.seo_agent import SEOOptimizationAgent
 from agents.review_agent import ReviewAgent
+from pytrends.request import TrendReq
+
 import time
 
 load_dotenv()
