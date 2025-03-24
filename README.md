@@ -5,7 +5,7 @@ This project is a Python-based multi-agent system designed to generate a high-qu
 
 The system follows a modular multi-agent architecture with five specialized components:
 
-``mermaid
+    ``mermaid
         graph TD
             A[Research Agent] --> B[Content Planning Agent]
             B --> C[Content Generation Agent]
